@@ -1,4 +1,4 @@
-## Answers to questions from "Genomic Variant Files"
+# Answers to questions from "Genomic Variant Files"
 
 **Q1: How many positions are found in this region in the VCF file?**
 
